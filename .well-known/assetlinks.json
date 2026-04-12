@@ -20,5 +20,15 @@
                 "92:CC:3A:31:2D:23:99:5D:CA:7D:D9:9A:09:4B:88:96:40:8E:D4:1A:35:FA:92:63:81:32:63:14:B4:D1:FF:7E"
             ]
         }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.beagleappsstudio.plantcare",
+            "sha256_cert_fingerprints": [
+                "EF:BB:91:45:FC:56:04:B5:C6:D5:01:37:0F:06:D7:59:43:26:CF:23:22:FE:BE:52:57:36:6E:BC:51:E2:CB:E7"
+            ]
+        }
     }
 ]
