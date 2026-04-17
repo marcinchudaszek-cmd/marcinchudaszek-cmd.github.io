@@ -16,9 +16,8 @@
             "namespace": "android_app",
             "package_name": "com.beagleappsstudio.deutschlernen",
             "sha256_cert_fingerprints": [
-    "DF:DB:FF:CE:78:B1:A3:E6:4E:09:1A:FC:42:DA:8D:8B:92:40:8E:7C:49:8A:B9:A5:1C:BE:73:E5:B8:E4:57:BB",
-    "92:CC:3A:31:2D:23:99:5D:CA:7D:D9:9A:09:4B:88:96:40:8E:D4:1A:35:FA:92:63:81:32:63:14:B4:D1:FF:7E"
-]
+                "DF:DB:FF:CE:78:B1:A3:E6:4E:09:1A:FC:42:DA:8D:8B:92:40:8E:7C:49:8A:B9:A5:1C:BE:73:E5:B8:E4:57:BB",
+                "92:CC:3A:31:2D:23:99:5D:CA:7D:D9:9A:09:4B:88:96:40:8E:D4:1A:35:FA:92:63:81:32:63:14:B4:D1:FF:7E"
             ]
         }
     },
